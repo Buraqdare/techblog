@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Arrays</title>
+  </head>
+  <body>
+  <p> Arrays is a single non access storage location that is used to store different elements in a single array,
+  you can store Numbers and  tell wheter is true or false, and you can also update after you assign it.</P>
+  
+  <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="KKXdVNO" data-user="buraqdare" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/buraqdare/pen/KKXdVNO">
+  Arrays3</a> by Buraqdare (<a href="https://codepen.io/buraqdare">@buraqdare</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+  
+  </body>
+</html>
